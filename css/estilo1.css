@@ -1,0 +1,40 @@
+
+h1{
+	color: #CBBD18;
+	text-align: center;
+	font-family: fantasy;
+
+}
+h2{
+	color: #E35B1C;
+	text-align: right;
+	font-family: fantasy;
+}
+
+p{
+	color: black;
+	text-align: right;
+	font-family: cursive;
+}
+img{
+	float:right;
+	height: 30%;
+	width: 30%;
+}
+#caja1{
+	float: right;
+
+}
+#caja2{
+	float: right;
+}
+#caja3{
+	float: right;
+}
+#caja4{
+	float: right;
+}
+footer{
+	color: blue;
+	bottom: initial;
+}

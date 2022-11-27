@@ -1,0 +1,45 @@
+h1{
+	color: #CBBD18;
+	text-align: center;
+	font-family: fantasy;
+
+}
+img{
+
+	height: 100%;
+	width: 100%;
+}
+#imagen{
+	float:left;
+	height: 30%;
+	width: 30%;
+}
+
+#cuadro{
+	float:right;
+	height: 30%;
+	width: 30%;
+}
+#cuadro1{
+	float:right;
+	height: 35%;
+	width: 35%;
+}
+#videos{
+	
+	height: 60%;
+	width: 60%;
+}
+center{
+	align-content: center;
+	
+}
+h2{
+	color: red;
+}
+p{
+	color: white;
+}
+footer{
+	color: white;
+}
